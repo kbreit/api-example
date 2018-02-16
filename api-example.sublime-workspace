@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ip_add",
+				"ip_address"
+			],
+			[
+				"domain",
+				"domain-name"
+			],
+			[
+				"templ",
+				"template-cli-centos7"
+			],
+			[
+				"rpm-",
+				"rpm-python"
+			],
+			[
+				"rpm-py",
+				"rpm-python-status"
+			],
+			[
+				"vpc_sub",
+				"vpc_subnet"
+			],
+			[
+				"vpc_subnet",
+				"vpc_subnet_id"
+			],
+			[
+				"csr1000",
+				"csr1000v_instance"
+			],
+			[
+				"load",
+				"load_balancers"
+			],
+			[
+				"dockerHTT",
+				"dockerHTTPLB"
+			],
+			[
+				"elb_",
+				"elb_application_lb"
+			],
+			[
+				"ec2_elb",
+				"ec2_elb_lb\tec2_elb_lb"
+			],
+			[
+				"asg_insta",
+				"asg_instances"
+			],
+			[
+				"asg_instance",
+				"asg_instance_facts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 329.0,
+		"last_filter": "spaces",
+		"selected_items":
+		[
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 636.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518787191/ansible/home/kbreit/ansible-playbooks/update-all.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518747792/ansible/home/kbreit/ansible-playbooks/update-templates.yml",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/kbreit/Dropbox/Documents/Downloads/fbd489bdf22d871370ccbf1592dc8e26-2d4c248c479c8aa33aa7f2b983603676a6eafbe3/solution.sh",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518359783/ansible/home/kbreit/ansible-playbooks/update-templates.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518276011/ansible/home/kbreit/ansible-playbooks/inventory.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518276167/ansible/home/kbreit/ansible-playbooks/update-all.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518278158/ansible/home/kbreit/ansible-playbooks/roles/linux/common/tasks/redhat.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518275986/ansible-controller/home/kbreit/ansible-playbooks/inv.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518275864/ansible/home/kbreit/ansible-playbooks/inventory.yml",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/User/sftp_servers/server",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1518275803/ansible/home/kbreit/ansible-playbooks/update-all.yml",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/User/sftp_servers/ansible",
+		"/Users/kbreit/Documents/Programming/ansible/lib/ansible/modules/cloud/amazon/ec2_eip.py",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517702865/ansible-aws/home/ubuntu/ansible/csr-inv.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517702816/ansible-aws/home/ubuntu/ansible/csr1kv-provision.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517671766/ansible-aws/home/ubuntu/ansible/ansible.cfg",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517670490/ansible-aws/home/ubuntu/ansible/vpc-csr1000v-create.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517612798/ansible-aws/home/ubuntu/ansible/roles/route53/record/create/tasks/record-register.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517609746/ansible-aws/home/ubuntu/ansible/vpc-csr1000v-create.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517623072/temp/var/www/html/index.html",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517265274/ansible-controller/home/kbreit/ansible/inv.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517266117/ansible-controller/home/kbreit/ansible/update-all.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517275253/ansible-controller/home/kbreit/ansible/roles/linux/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517275172/ansible-controller/home/kbreit/ansible/roles/linux/common/tasks/redhat.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517266274/ansible-controller/home/kbreit/.ssh/ansible.pub",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1517266283/ansible-controller/home/kbreit/.ssh/authorized_keys",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516813272/ansible-controller/home/kbreit/ansible/csr1000v.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516812492/ansible-aws/home/ubuntu/ansible/ansible.cfg",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/User/sftp_servers/ansible-controller",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807890/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/delete/tasks/delete_asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807882/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/delete/tasks/delete_lc.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807835/ansible-aws/home/ubuntu/ansible/docker-httpd-delete.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516808288/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807508/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807900/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/delete/tasks/delete-elb.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807811/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/delete/tasks/delete-elb.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516807796/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/delete/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516806253/ansible-aws/home/ubuntu/ansible/roles/route53/zone/delete/tasks/delete-record.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516806230/ansible-aws/home/ubuntu/ansible/docker-httpd-delete.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516806964/ansible-aws/home/ubuntu/ansible/docker-httpd.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516742534/ansible-aws/home/ubuntu/ansible/roles/route53/zone/create/tasks/zone-register.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516742713/ansible-aws/home/ubuntu/ansible/elb_facts.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516741617/ansible-aws/home/ubuntu/ansible/docker-httpd.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516742683/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516743704/ansible-aws/home/ubuntu/ansible/roles/route53/zone/create/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516742475/ansible-aws/home/ubuntu/ansible/roles/route53/zone/create/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516719825/ansible-aws/home/ubuntu/ansible/docker-httpd.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516731889/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516720006/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516734355/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516732635/ansible-aws/home/ubuntu/ansible/elb_facts.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516732286/ansible-aws/home/ubuntu/ansible/asg_facts.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516731162/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/lb.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516731183/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516720068/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516720442/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/vars/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516720390/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/defaults/main.yml",
+		"/Users/kbreit/Documents/Programming/ansible/global-inventory.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516577633/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/main.yml",
+		"/Users/kbreit/Documents/Programming/ansible/global-update.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516402267/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516401966/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516396557/ansible-aws/home/ubuntu/ansible/docker-httpd.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516401526/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-load-balancer.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516401449/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516396453/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516401560/ansible-aws/home/ubuntu/ansible/roles/ec2/load-balancer/create/tasks/create-target-group.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516397850/ansible-aws/home/ubuntu/ansible/roles/docker/httpd/tasks/install-httpd.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516394912/ansible-aws/home/ubuntu/ansible/roles/docker/common/tasks/docker-install.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516395473/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516394888/ansible-aws/home/ubuntu/ansible/roles/docker/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516394559/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516394699/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/delete/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393317/ansible-aws/home/ubuntu/ansible/docker-httpd-delete.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393615/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/delete/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393649/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/delete/tasks/delete_asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393766/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393813/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393707/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/create/defaults/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516393282/ansible-aws/home/ubuntu/ansible/docker-httpd.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516309159/ansible-aws/home/ubuntu/ansible/ec2-docker-create.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516313855/ansible-aws/home/ubuntu/ansible/config",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516312951/ansible-aws/home/ubuntu/ansible/roles/docker/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516313395/ansible-aws/home/ubuntu/ansible/roles/docker/tasks/docker-install.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516313530/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516314484/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/redhat.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516309934/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516310342/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/tasks/ec2-lc.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516310363/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516314082/ansible-aws/home/ubuntu/ansible/roles/docker/vars/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516314764/ansible-aws/home/ubuntu/ansible/roles/docker/defaults/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516314034/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/vars/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516314054/ansible-aws/home/ubuntu/ansible/roles/linux/common/vars/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516313283/ansible-aws/home/ubuntu/ansible/roles/docker/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516313112/ansible-aws/home/ubuntu/ansible/roles/linux/common/tasks/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516309693/ansible-aws/home/ubuntu/ansible/roles/ec2/create/tasks/ec2-lc.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516309703/ansible-aws/home/ubuntu/ansible/roles/ec2/create/tasks/ec2-asg.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516309980/ansible-aws/home/ubuntu/ansible/roles/ec2/asg/vars/main.yml",
+		"/var/folders/0v/x390hdc15l19jl26q5870lrc0000gn/T/sublime-sftp-browse-1516309674/ansible-aws/home/ubuntu/ansible/roles/ec2/create/tasks/main.yml",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/User/Preferences.sublime-settings",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/Default/Preferences.sublime-settings",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/kbreit/Documents/Programming/sublime-config/Packages/User/SFTP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 97.0
+	},
+	"output.sftp":
+	{
+		"height": 97.0
+	},
+	"pinned_build_system": "",
+	"project": "api-example.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"eip",
+				"lib/ansible/modules/cloud/amazon/ec2_eip.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 239.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
